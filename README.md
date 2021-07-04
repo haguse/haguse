@@ -5,7 +5,7 @@ I'm a Front-End developer based in Ankara/Turkey
     LinkedIn : https://www.linkedin.com/in/halitguvenserin/
    
 ### Languages and Tools: 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <!--
 **haguse/haguse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
