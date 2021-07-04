@@ -4,13 +4,23 @@ I'm a Front-End developer based in Ankara/Turkey
 📫 How to reach me;
     LinkedIn : https://www.linkedin.com/in/halitguvenserin/
    
-My Skills :
+Languages and Tools: <br/>
+<br/>
 ![](icons/html.png)
 ![](icons/css.png)
 ![](icons/javascript.png)
 ![](icons/git.png)
+![](icons/vuejs.png)
+![](icons/sass.png)
+![](icons/less.png)
 ![](icons/bootstrap.png)
-![](icons/jquery.png)
+![](icons/adobe.png)
+![](icons/figma.png)
+![](icons/grunt.png)
+![](icons/firebase.png)
+![](icons/salesforce.png)
+![](icons/jira.png)
+![](icons/bitbucket.png)
 
 
 <!--
