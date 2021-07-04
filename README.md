@@ -5,6 +5,7 @@ I'm a Front-End developer based in Ankara/Turkey
     LinkedIn : https://www.linkedin.com/in/halitguvenserin/
    
 Languages and Tools: 
+![](icons/html.png)
 
 
 <!--
