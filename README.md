@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Guven
 I'm a Front-End developer based in Ankara/Turkey
+
 🌱 I’m currently learning ReactJS
+
 📫 How to reach me;
     LinkedIn : https://www.linkedin.com/in/halitguvenserin/
    
