@@ -5,6 +5,10 @@
 
 ### Connect with me:
 
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+<br>
+
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br>
@@ -22,6 +26,6 @@
 <img align="left" alt="React" width="26px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/06/jquery-kucuk-icerik-caglarbostanci-com-tr.png" />
 
 
-[twitter]: https://twitter.com/hgserin ("Twitter")
+[twitter]: https://twitter.com/hgserin
 [instagram]: https://instagram.com/hltguven
 [linkedin]: https://linkedin.com/in/halitguvenserin
