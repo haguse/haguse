@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-(https://www.halitguvenserin.com "haguse's Homepage")
+https://www.halitguvenserin.com
 
 <br>
 
