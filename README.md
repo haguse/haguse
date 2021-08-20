@@ -5,7 +5,7 @@
 
 ### Connect with me:
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[My Personal Website](https://www.google.com "Google's Homepage")
 
 <br>
 
