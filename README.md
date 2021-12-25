@@ -1,4 +1,5 @@
-### <h3 align="center">Hi there 👋 I am Halit Guven</h3>
+### <h2 align="center">Hi there 👋 I am Halit Guven</h2>
+<br>
 
 - 🔭 &nbsp; I’m currently working with JavaScript, React
 - 🌱 &nbsp; I’m currently learning TypeScript
