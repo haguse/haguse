@@ -1,36 +1,79 @@
-### Hi there 👋 I am Guven
+### <h2 align="center">Hi there 👋 I am Halit Guven</h2>
 
+<hr>
 
-🌱 I’m currently learning ReactJS
+- 🔭 &nbsp; I’m currently working with JavaScript, React
+- 🌱 &nbsp; I’m currently learning TypeScript
+- 💬 &nbsp; Ask me about anything, I am happy to help
 
-### Connect with me:
+<hr>
 
-https://www.halitguvenserin.com
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a href="https://halitguvenserin.com/">
+    <img src="https://img.shields.io/badge/-halitguvenserin.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/halitguvenserin">
+    <img src="https://img.shields.io/badge/-Halit%20Guven%20Serin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:halitguvens@gmail.com">
+    <img src="https://img.shields.io/badge/-halitguvens@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+</p>
+
+<hr>
+
+### 🛠 &nbsp;Tech Stack
+
+<a href="https://www.w3.org/html/" target="_blank">
+    <img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</a>
+
+<a href="https://www.w3.org/Style/CSS" target="_blank">
+    <img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+
+<a href="https://sass-lang.com/" target="_blank">
+    <img align="left" alt="Sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">    
+    <img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">    
+    <img align="left" alt="Tailwind CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">    
+    <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</a>
+
+<a href="https://reactjs.org/" target="_blank">    
+    <img align="left" alt="React" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">    
+    <img align="left" alt="Redux" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</a>
+
+<a href="https://styled-components.com/" target="_blank">    
+    <img align="left" alt="styled components" width="40" height="40"  src="https://mf.gallerycdn.vsassets.io/extensions/mf/vscode-styled-components/0.2.2/1539329679846/Microsoft.VisualStudio.Services.Icons.Default" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">    
+    <img align="left" alt="Bootstrap"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+</a>
+
+<a href="https://www.figma.com/" target="_blank">    
+    <img align="left" alt="Figma"  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
 
 <br>
+<br>
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br>
-
+<hr>
 
 
-
-### Languages and Tools: 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="jQuery" width="26px" src="https://caglarbostanci.com.tr/wp-content/uploads/2017/06/jquery-kucuk-icerik-caglarbostanci-com-tr.png" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg" />
-
-
-
-
-
-[twitter]: https://twitter.com/hgserin
-[instagram]: https://instagram.com/hltguven
-[linkedin]: https://linkedin.com/in/halitguvenserin
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haguse&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
