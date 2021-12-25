@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://git-scm.com/" target="_blank">    
-    <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+    <img align="left" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 </a>
 
 <a href="https://reactjs.org/" target="_blank">    
